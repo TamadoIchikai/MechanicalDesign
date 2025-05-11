@@ -37,12 +37,12 @@
 [Back to beginning](#about) 
 ## Assembly 
 - [Full folder](https://drive.google.com/drive/folders/1DgYNdKQNP4mk9DMQmH2UvFJTw7SPdeV6?usp=drive_link)<br>
-|[Bevel-gear box](#2-level-bevel-gear-box)|
+|[Bevel-gear box](#bevel-gear-box)|
 
 ### Clamp part design
 - [Drive](https://drive.google.com/drive/folders/11e-QWCxVR2ZCaYG1c2zFvTnVMbFb8-NN?usp=drive_link) <br>
 ![image](https://github.com/user-attachments/assets/0800a428-2ab6-4328-b0c9-489d3219db47)
-### 2 level bevel-gear box
+### Bevel-gear box
 - [Drive](https://drive.google.com/drive/folders/1ahaaU_polVM8gbmK6aduMNkPAA4hYnhJ?usp=drive_link)<br>
 ![image](https://github.com/user-attachments/assets/5e5ec220-e6dc-4a4e-a54a-155d6452230b) <br>
 - It's a bit cramped in red lines and circles because my lecturer only give a pdf file and tell me to recreate a whole gear box, so i used [foxit reader](https://www.foxit.com/pdf-reader/) to measure and try to make 1:1 scale.
