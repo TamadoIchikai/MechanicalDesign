@@ -34,9 +34,11 @@
   </tr>
 </table>
 
-
+[Back to beginning](#about) 
 ## Assembly 
 - [Full folder](https://drive.google.com/drive/folders/1DgYNdKQNP4mk9DMQmH2UvFJTw7SPdeV6?usp=drive_link)
+|[Bevel-gear box](#2-level-bevel-gear-box)|| 
+
 ### Clamp part design
 - [Drive](https://drive.google.com/drive/folders/11e-QWCxVR2ZCaYG1c2zFvTnVMbFb8-NN?usp=drive_link) <br>
 ![image](https://github.com/user-attachments/assets/0800a428-2ab6-4328-b0c9-489d3219db47)
@@ -45,12 +47,11 @@
 ![image](https://github.com/user-attachments/assets/5e5ec220-e6dc-4a4e-a54a-155d6452230b) <br>
 - It's a bit cramped in red lines and circles because my lecturer only give a pdf file and tell me to recreate a whole gear box, so i used [foxit reader](https://www.foxit.com/pdf-reader/) to measure and try to make 1:1 scale.
 - Decomposed animation: [drive](https://drive.google.com/file/d/1uY1ag98vEUHNOqF6jrd7rkw60yk-St2c/view?usp=drive_link)
-
-[Back to Inventor](#inventor) 
+[Back to beginning](#about) 
 # Solidwork
 - I have used solidwork to design a 4DoF parallel robot based on [ABB IRB 930T – 12/0.85](https://new.abb.com/products/robotics/robots/scara-robots/irb-930) -> [Drive](https://drive.google.com/drive/folders/1ZeXVYA546JylMyoD3On91UGOL4QAUuE2?usp=drive_link)
 - Decomposed video: [drive](https://drive.google.com/file/d/1uEgJCzzeMudRUN11NjVR9VYm6qbpzCz1/view?usp=drive_link)
 - Motion study video: [drive](https://drive.google.com/file/d/1kPTB6fDDdfT5rTaeSSei_RhzWEnDTGq8/view?usp=drive_link)
-- Essay describe how i calculate and finalize chosing parts: [drive](https://drive.google.com/file/d/14B4WIiABpAgIqko5attVI1krpFqaoPbs/view?usp=drive_link)
-  
+- Essay describe how i calculate and finalize chosing parts: [drive](https://drive.google.com/file/d/14B4WIiABpAgIqko5attVI1krpFqaoPbs/view?usp=drive_link)<br>
   ![image](https://github.com/user-attachments/assets/8a18853d-d66e-4396-9a38-b33cde893bac)
+[Back to beginning](#about) 
