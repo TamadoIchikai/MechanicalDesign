@@ -36,8 +36,8 @@
 
 [Back to beginning](#about) 
 ## Assembly 
-- [Full folder](https://drive.google.com/drive/folders/1DgYNdKQNP4mk9DMQmH2UvFJTw7SPdeV6?usp=drive_link)
-|[Bevel-gear box](#2-level-bevel-gear-box)|| 
+- [Full folder](https://drive.google.com/drive/folders/1DgYNdKQNP4mk9DMQmH2UvFJTw7SPdeV6?usp=drive_link)<br>
+|[Bevel-gear box](#2-level-bevel-gear-box)|
 
 ### Clamp part design
 - [Drive](https://drive.google.com/drive/folders/11e-QWCxVR2ZCaYG1c2zFvTnVMbFb8-NN?usp=drive_link) <br>
