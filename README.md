@@ -1,6 +1,7 @@
 # About
 - This folder contain all mini-project that i have done throughout University, including solidwork and inventor <br>
-[Inventor Assembly](#assembly)                    [Solidwork Assembly](#solidwork)
+| [Inventor Assembly](#assembly) | [Solidwork Assembly](#solidwork) |
+
 
 # Inventor
 [Full folder](https://drive.google.com/drive/folders/1jKigr7kf7Mjp9l-MtQ3Z0OrxdryqVTVf?usp=sharing)
@@ -45,6 +46,7 @@
 - It's a bit cramped in red lines and circles because my lecturer only give a pdf file and tell me to recreate a whole gear box, so i used [foxit reader](https://www.foxit.com/pdf-reader/) to measure and try to make 1:1 scale.
 - Decomposed animation: [drive](https://drive.google.com/file/d/1uY1ag98vEUHNOqF6jrd7rkw60yk-St2c/view?usp=drive_link)
 
+[Back to Inventor](#inventor) 
 # Solidwork
 - I have used solidwork to design a 4DoF parallel robot based on [ABB IRB 930T – 12/0.85](https://new.abb.com/products/robotics/robots/scara-robots/irb-930) -> [Drive](https://drive.google.com/drive/folders/1ZeXVYA546JylMyoD3On91UGOL4QAUuE2?usp=drive_link)
 - Decomposed video: [drive](https://drive.google.com/file/d/1uEgJCzzeMudRUN11NjVR9VYm6qbpzCz1/view?usp=drive_link)
